@@ -46,7 +46,6 @@ const Login = () => {
           border: "1px solid #41628F",
         }}
       >
-        {/* <h1 className="text-4xl font-bold text-white mb-2 fontNew">AI Work Directory</h1> */}
         <div className="relative w-full h-[70px] sm:w-100 sm:h-[100px]">
           <Image src="/aiWorkLogo.png" fill objectFit="contain" />
         </div>
